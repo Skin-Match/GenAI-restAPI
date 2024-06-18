@@ -3,6 +3,8 @@
 
 Rest API made by Flask, for generative AI model used for Skin Match App.
 
+## Deploy Link
+Deploy Link : https://my-genai2-model-dczyyawmja-et.a.run.app
 
 ## Setup
 
